@@ -8,7 +8,7 @@
 | Honey Syrup    | .50    |
 
 ### Garnish:
-optional
+Optional
 	Cocktail Cherry
 
 ### Instructions:
