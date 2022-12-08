@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Bees Knees",
+      "path": "cocktails/Bees Knees.md"
+    },
+    {
+      "type": "file",
+      "title": "Gimlet",
+      "path": "cocktails/Gimlet.md"
+    },
+    {
+      "type": "file",
+      "title": "Division Bell",
+      "path": "cocktails/Division Bell.md"
+    },
+    {
+      "type": "file",
+      "title": "Last Word",
+      "path": "cocktails/Last Word.md"
+    },
+    {
+      "type": "file",
+      "title": "Manhattan",
+      "path": "cocktails/Manhattan.md"
+    },
+    {
+      "type": "file",
+      "title": "Margarita",
+      "path": "cocktails/Margarita.md"
+    },
+    {
+      "type": "file",
+      "title": "Negroni",
+      "path": "cocktails/Negroni.md"
+    },
+    {
+      "type": "file",
+      "title": "Old Fashioned",
+      "path": "cocktails/Old Fashioned.md"
+    },
+    {
+      "type": "file",
+      "title": "Paper Plane",
+      "path": "cocktails/Paper Plane.md"
+    },
+    {
+      "type": "file",
+      "title": "Daiquiri",
+      "path": "cocktails/Daiquiri.md"
+    }
+  ]
+}

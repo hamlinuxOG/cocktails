@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cocktails/Last Word.md",
-                "mode": "source",
+                "file": "content/Tom Collins.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cocktails/Last Word.md",
+                "file": "content/Tom Collins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cocktails/Last Word.md",
+                "file": "content/Tom Collins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cocktails/Last Word.md"
+                "file": "content/Tom Collins.md"
               }
             }
+          },
+          {
+            "id": "76d0c844e1e89b2c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,6 +148,12 @@
   },
   "active": "d855ccc501b1c536",
   "lastOpenFiles": [
+    "cocktails/Untitled.md",
+    "content/Tom Collins.md",
+    "content/Gin and Tonic.md",
+    "cocktails/Old Fashioned.md",
+    "cocktails/Bees Knees.md",
+    "cocktails/Last Word.md",
     "cocktails/Daiquiri.md"
   ]
 }
